@@ -1,0 +1,11 @@
+c:\users\shailesh\documents\visual studio 2012\Projects\GalaxyGuide\GalaxyGuide\bin\Debug\GalaxyGuide.dll
+c:\users\shailesh\documents\visual studio 2012\Projects\GalaxyGuide\GalaxyGuide\bin\Debug\GalaxyGuide.pdb
+c:\users\shailesh\documents\visual studio 2012\Projects\GalaxyGuide\GalaxyGuide\obj\Debug\GalaxyGuide.csprojResolveAssemblyReference.cache
+c:\users\shailesh\documents\visual studio 2012\Projects\GalaxyGuide\GalaxyGuide\obj\Debug\GalaxyGuide.dll
+c:\users\shailesh\documents\visual studio 2012\Projects\GalaxyGuide\GalaxyGuide\obj\Debug\GalaxyGuide.pdb
+C:\Personal\Technical\Interview\ThoughtWorks\MerchantsGuideTOGalaxy-master\MerchantsGuideTOGalaxy-master\GalaxyGuide\bin\Debug\GalaxyGuide.dll
+C:\Personal\Technical\Interview\ThoughtWorks\MerchantsGuideTOGalaxy-master\MerchantsGuideTOGalaxy-master\GalaxyGuide\bin\Debug\GalaxyGuide.pdb
+C:\Personal\Technical\Interview\ThoughtWorks\MerchantsGuideTOGalaxy-master\MerchantsGuideTOGalaxy-master\GalaxyGuide\obj\Debug\GalaxyGuide.csprojAssemblyReference.cache
+C:\Personal\Technical\Interview\ThoughtWorks\MerchantsGuideTOGalaxy-master\MerchantsGuideTOGalaxy-master\GalaxyGuide\obj\Debug\GalaxyGuide.csproj.CoreCompileInputs.cache
+C:\Personal\Technical\Interview\ThoughtWorks\MerchantsGuideTOGalaxy-master\MerchantsGuideTOGalaxy-master\GalaxyGuide\obj\Debug\GalaxyGuide.dll
+C:\Personal\Technical\Interview\ThoughtWorks\MerchantsGuideTOGalaxy-master\MerchantsGuideTOGalaxy-master\GalaxyGuide\obj\Debug\GalaxyGuide.pdb

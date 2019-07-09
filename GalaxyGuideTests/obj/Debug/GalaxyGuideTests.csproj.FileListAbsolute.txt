@@ -1,0 +1,20 @@
+c:\users\shailesh\documents\visual studio 2012\Projects\GalaxyGuide\GalaxyGuideTests\bin\Debug\GalaxyGuideTests.dll
+c:\users\shailesh\documents\visual studio 2012\Projects\GalaxyGuide\GalaxyGuideTests\bin\Debug\GalaxyGuideTests.pdb
+c:\users\shailesh\documents\visual studio 2012\Projects\GalaxyGuide\GalaxyGuideTests\bin\Debug\GalaxyGuide.dll
+c:\users\shailesh\documents\visual studio 2012\Projects\GalaxyGuide\GalaxyGuideTests\bin\Debug\nunit.framework.dll
+c:\users\shailesh\documents\visual studio 2012\Projects\GalaxyGuide\GalaxyGuideTests\bin\Debug\GalaxyGuide.pdb
+c:\users\shailesh\documents\visual studio 2012\Projects\GalaxyGuide\GalaxyGuideTests\bin\Debug\nunit.framework.xml
+c:\users\shailesh\documents\visual studio 2012\Projects\GalaxyGuide\GalaxyGuideTests\obj\Debug\GalaxyGuideTests.csprojResolveAssemblyReference.cache
+c:\users\shailesh\documents\visual studio 2012\Projects\GalaxyGuide\GalaxyGuideTests\obj\Debug\GalaxyGuideTests.dll
+c:\users\shailesh\documents\visual studio 2012\Projects\GalaxyGuide\GalaxyGuideTests\obj\Debug\GalaxyGuideTests.pdb
+C:\Personal\Technical\Interview\ThoughtWorks\MerchantsGuideTOGalaxy-master\MerchantsGuideTOGalaxy-master\GalaxyGuideTests\bin\Debug\GalaxyGuideTests.dll
+C:\Personal\Technical\Interview\ThoughtWorks\MerchantsGuideTOGalaxy-master\MerchantsGuideTOGalaxy-master\GalaxyGuideTests\bin\Debug\GalaxyGuideTests.pdb
+C:\Personal\Technical\Interview\ThoughtWorks\MerchantsGuideTOGalaxy-master\MerchantsGuideTOGalaxy-master\GalaxyGuideTests\bin\Debug\GalaxyGuide.dll
+C:\Personal\Technical\Interview\ThoughtWorks\MerchantsGuideTOGalaxy-master\MerchantsGuideTOGalaxy-master\GalaxyGuideTests\bin\Debug\nunit.framework.dll
+C:\Personal\Technical\Interview\ThoughtWorks\MerchantsGuideTOGalaxy-master\MerchantsGuideTOGalaxy-master\GalaxyGuideTests\bin\Debug\GalaxyGuide.pdb
+C:\Personal\Technical\Interview\ThoughtWorks\MerchantsGuideTOGalaxy-master\MerchantsGuideTOGalaxy-master\GalaxyGuideTests\bin\Debug\nunit.framework.xml
+C:\Personal\Technical\Interview\ThoughtWorks\MerchantsGuideTOGalaxy-master\MerchantsGuideTOGalaxy-master\GalaxyGuideTests\obj\Debug\GalaxyGuideTests.csprojAssemblyReference.cache
+C:\Personal\Technical\Interview\ThoughtWorks\MerchantsGuideTOGalaxy-master\MerchantsGuideTOGalaxy-master\GalaxyGuideTests\obj\Debug\GalaxyGuideTests.csproj.CoreCompileInputs.cache
+C:\Personal\Technical\Interview\ThoughtWorks\MerchantsGuideTOGalaxy-master\MerchantsGuideTOGalaxy-master\GalaxyGuideTests\obj\Debug\GalaxyGuideTests.csproj.CopyComplete
+C:\Personal\Technical\Interview\ThoughtWorks\MerchantsGuideTOGalaxy-master\MerchantsGuideTOGalaxy-master\GalaxyGuideTests\obj\Debug\GalaxyGuideTests.dll
+C:\Personal\Technical\Interview\ThoughtWorks\MerchantsGuideTOGalaxy-master\MerchantsGuideTOGalaxy-master\GalaxyGuideTests\obj\Debug\GalaxyGuideTests.pdb

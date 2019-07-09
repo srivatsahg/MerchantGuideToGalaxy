@@ -1,0 +1,17 @@
+C:\Personal\Technical\Interview\ThoughtWorks\MerchantsGuideTOGalaxy-master\MerchantsGuideTOGalaxy-master\GalaxyClient\bin\Debug\GalaxyClient.exe.config
+C:\Personal\Technical\Interview\ThoughtWorks\MerchantsGuideTOGalaxy-master\MerchantsGuideTOGalaxy-master\GalaxyClient\bin\Debug\GalaxyClient.exe
+C:\Personal\Technical\Interview\ThoughtWorks\MerchantsGuideTOGalaxy-master\MerchantsGuideTOGalaxy-master\GalaxyClient\bin\Debug\GalaxyClient.pdb
+C:\Personal\Technical\Interview\ThoughtWorks\MerchantsGuideTOGalaxy-master\MerchantsGuideTOGalaxy-master\GalaxyClient\bin\Debug\GalaxyGuide.dll
+C:\Personal\Technical\Interview\ThoughtWorks\MerchantsGuideTOGalaxy-master\MerchantsGuideTOGalaxy-master\GalaxyClient\bin\Debug\GalaxyGuide.pdb
+C:\Personal\Technical\Interview\ThoughtWorks\MerchantsGuideTOGalaxy-master\MerchantsGuideTOGalaxy-master\GalaxyClient\obj\Debug\GalaxyClient.csprojAssemblyReference.cache
+C:\Personal\Technical\Interview\ThoughtWorks\MerchantsGuideTOGalaxy-master\MerchantsGuideTOGalaxy-master\GalaxyClient\obj\Debug\GalaxyClient.csproj.CoreCompileInputs.cache
+C:\Personal\Technical\Interview\ThoughtWorks\MerchantsGuideTOGalaxy-master\MerchantsGuideTOGalaxy-master\GalaxyClient\obj\Debug\GalaxyClient.csproj.CopyComplete
+C:\Personal\Technical\Interview\ThoughtWorks\MerchantsGuideTOGalaxy-master\MerchantsGuideTOGalaxy-master\GalaxyClient\obj\Debug\GalaxyClient.exe
+C:\Personal\Technical\Interview\ThoughtWorks\MerchantsGuideTOGalaxy-master\MerchantsGuideTOGalaxy-master\GalaxyClient\obj\Debug\GalaxyClient.pdb
+C:\Personal\Technical\Interview\ThoughtWorks\MerchantsGuideTOGalaxy-master\MerchantsGuideTOGalaxy-master\GalaxyClient\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Personal\Technical\Interview\ThoughtWorks\MerchantsGuideTOGalaxy-master\MerchantsGuideTOGalaxy-master\GalaxyClient\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Personal\Technical\Interview\ThoughtWorks\MerchantsGuideTOGalaxy-master\MerchantsGuideTOGalaxy-master\GalaxyClient\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Personal\Technical\Interview\ThoughtWorks\MerchantsGuideTOGalaxy-master\MerchantsGuideTOGalaxy-master\GalaxyClient\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Personal\Technical\Interview\ThoughtWorks\MerchantsGuideTOGalaxy-master\MerchantsGuideTOGalaxy-master\GalaxyClient\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Personal\Technical\Interview\ThoughtWorks\MerchantsGuideTOGalaxy-master\MerchantsGuideTOGalaxy-master\GalaxyClient\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Personal\Technical\Interview\ThoughtWorks\MerchantsGuideTOGalaxy-master\MerchantsGuideTOGalaxy-master\GalaxyClient\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
